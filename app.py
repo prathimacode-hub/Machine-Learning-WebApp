@@ -4,8 +4,8 @@ classifier = joblib.load(r'adult_autism.pkl')
 
 # importing Flask and other modules
 from flask import Flask, request, render_template 
-## import numpy as np
-import pandas as pd
+import numpy as np
+## import pandas as pd
   
 # Flask constructor
 app = Flask(__name__)   
