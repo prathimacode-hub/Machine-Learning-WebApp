@@ -39,7 +39,5 @@ For it, we shall do : run app.py
 
 This would run the webapp in the ip address given in a browser mode
 
-To see how project looks like through github. Go to project settings, in left panel down, select Github Pages and activate it to /main and save it. We get a github.io" link of the project that can be added up in "about" option of the project.
-
 Thank you, hope you understood how webapp works and it can be compiled successfully. 
 
